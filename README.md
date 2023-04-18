@@ -1,7 +1,7 @@
 
 
 # My Flutter Business Card
-<img align="left" src= "images/business-card.png" height=600px>
+
 
 ## On my way to learn flutter
 
